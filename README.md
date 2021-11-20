@@ -109,7 +109,7 @@ Makesure you have opened required ports on AWS Security group for this server.
 
 ### Stage-05 : Apache_server
 1. Install Docker and start Docker daemon 
-### final output :
+### Final output :
 ![](https://github.com/praveensirvi1212/webdev/blob/main/img/finalop1.JPG) 
  
 ##### References
