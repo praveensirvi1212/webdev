@@ -37,7 +37,7 @@ EXPOSE 80
 1. Install java and git
 1. Install jenkins
 1. Login to Jenkins console
-1. Create *Jenkins job*, Fill the following details,
+1. Create *Jenkins job with free style*, Fill the following details,
    - *Source Code Management:*
       - Repository : `https://github.com/praveensirvi1212/Docker.git`
       - Branches to build : `*/main`  
