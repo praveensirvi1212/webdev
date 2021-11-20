@@ -19,7 +19,7 @@ In this project, we will be see how to *use Git, Jenkins, Ansible, DockerHub, Do
 ### Stage-01 : Create a web page
 Put all the web page code file into github
 
-![](https://github.com/praveensirvi1212/webdev/blob/main/img/Capture6.jpg) 
+![](https://github.com/praveensirvi1212/webdev/blob/main/img/Capture6.JPG) 
 
 ### Stage-02 : Create a Docker file 
 - Create a Docker file into github
