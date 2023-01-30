@@ -74,7 +74,7 @@ EXPOSE 80
 	          - `ansible-playbook /playbooks/docker.yml`
 
 1. Login to Docker host and check images and containers. (no images and containers)
-1. login to docker hub and check. shouldn't find images with for valaxy_demo 
+1. login to docker hub and check. shouldn't find images with for job_name:v1.build_id 
 1. Execute Jenkins job
 1. check images in Docker hub. Now you could able to see new images pushed to Valaxy Docker_Hub
 
